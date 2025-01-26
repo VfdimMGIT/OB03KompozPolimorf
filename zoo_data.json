@@ -1,0 +1,32 @@
+{
+    "animals": [
+        {
+            "type": "Bird",
+            "name": "Polly",
+            "age": 5,
+            "wingspan": 15
+        },
+        {
+            "type": "Mammal",
+            "name": "Simba",
+            "age": 10,
+            "fur_color": "Golden"
+        },
+        {
+            "type": "Reptile",
+            "name": "Kaa",
+            "age": 8,
+            "scale_type": "Smooth"
+        }
+    ],
+    "staff": [
+        {
+            "type": "ZooKeeper",
+            "name": "John"
+        },
+        {
+            "type": "Veterinarian",
+            "name": "Dr. Smith"
+        }
+    ]
+}
